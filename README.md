@@ -37,108 +37,29 @@
 
 ### 📄 The books I have read:
 
-<table align="center">
-    <tr>
-        <th>Language</th>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/25708312" target="_blank" rel="noreferrer"> C++ Primer</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/26419721" target="_blank" rel="noreferrer"> C++标准库（第2版）</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/24738301" target="_blank" rel="noreferrer"> 深入理解C++11-C++ 11新特性解析与应用</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/35653912" target="_blank" rel="noreferrer"> C++并发编程实战（第2版）</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/10812785" target="_blank" rel="noreferrer"> Qt中的C++技术</td>
-    </tr>
-    <tr>
-        <td><a href="https://time.geekbang.org/column/intro/100051801" target="_blank" rel="noreferrer"> 罗剑锋的 C++ 实战笔记</td>
-    </tr>
-    <tr>
-        <td><a href="https://time.geekbang.org/column/intro/100040501" target="_blank" rel="noreferrer"> 现代 C++ 编程实战
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/36365320" target="_blank" rel="noreferrer"> Python编程（第3版）</td>
-    </tr>
-    <tr>
-        <td> ...too much...</td>
-    </tr>
-</table>
-
-<table align="center">
-    <tr>
-        <th>Network</th>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/25911735" target="_blank" rel="noreferrer"> TCP/IP网络编程</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/24722611" target="_blank" rel="noreferrer"> Linux高性能服务器编程</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/25863515" target="_blank" rel="noreferrer"> 图解HTTP</td>
-    </tr>
-    <tr>
-        <td><a href="https://time.geekbang.org/column/intro/100029001" target="_blank" rel="noreferrer"> 网络编程实战</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/10812785" target="_blank" rel="noreferrer"> 透视 HTTP 协议</td>
-    </tr>
-    <tr>
-        <td> ...too much...</td>
-    </tr>
-</table>
+#### CS  
+| Language                                                     | Network                                                      | Other                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/) | [TCP/IP网络编程](https://book.douban.com/subject/25911735/)  | [我的第一本算法书](https://book.douban.com/subject/30357170/) |
+| [C++标准库（第2版）](https://book.douban.com/subject/26419721/) | [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) | [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/34262305/) |
+| [深入理解C++11](https://book.douban.com/subject/24738301/)   | [图解HTTP](https://book.douban.com/subject/25863515/)        | [程序员的自我修养](https://book.douban.com/subject/3652388/) |
+| [C++并发编程实战（第2版）](https://book.douban.com/subject/35653912/) | [网络编程实战](https://time.geekbang.org/column/intro/100032701) | [浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601) |
+| [Qt中的C++技术](https://book.douban.com/subject/10812785/)   | [透视 HTTP 协议](https://time.geekbang.org/column/intro/100029001) | ...too much...                                               |
+| [罗剑锋的 C++ 实战笔记](https://time.geekbang.org/column/intro/100051801) | ...too much...                                               |                                                              |
+| [现代 C++ 编程实战 ](https://time.geekbang.org/column/intro/100040501) |                                                              |                                                              |
+| ...too much...                                               |                                                              |                                                              |
 
 
-<table align="center">
-    <tr>
-        <th>Other</th>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/30357170" target="_blank" rel="noreferrer"> 我的第一本算法书</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/34262305" target="_blank" rel="noreferrer"> 设计模式：可复用面向对象软件的基础
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://time.geekbang.org/column/intro/100033601" target="_blank" rel="noreferrer"> 浏览器工作原理与实践
-        </td>
-    </tr>
-    <tr>
-        <td> ...too much...</td>
-    </tr>
-</table>
 
-<table align="center">
-    <tr>
-        <th>Literature</th>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/30121482" target="_blank" rel="noreferrer"> 乌合之众</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/6798611" target="_blank" rel="noreferrer"> 史蒂夫·乔布斯传</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/34428637" target="_blank" rel="noreferrer"> 戴笠：黑暗时代里最黑的人</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/4913064" target="_blank" rel="noreferrer"> 活着</td>
-    </tr>
-    <tr>
-        <td><a href="https://book.douban.com/subject/1985223" target="_blank" rel="noreferrer"> 倾城之恋</td>
-    </tr>
-    <tr>
-        <td> ...too much...</td>
-    </tr>
-</table>
+#### Literature
+|                          Literature                          |
+| :----------------------------------------------------------: |
+|    [乌合之众](https://book.douban.com/subject/30121482/)     |
+| [史蒂夫·乔布斯传](https://book.douban.com/subject/6798611/)  |
+| [戴笠：黑暗时代里最黑的人](https://book.douban.com/subject/34428637/) |
+|       [活着](https://book.douban.com/subject/4913064/)       |
+|     [倾城之恋](https://book.douban.com/subject/1985223/)     |
+
 
 
 ### About me
