@@ -17,11 +17,11 @@
 ### Tools:
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  <img alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/>
   <img alt="JetBrains" src="https://resources.jetbrains.com/storage/products/jetbrains/img/meta/jetbrains_logo_300x300.png" width="40" height="40"/>
   <img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cmake.org/wp-content/uploads/2019/05/cropped-cmake_512.png" alt="git" width="40" height="40"/>
+  <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img alt="CMake" src="https://cmake.org/wp-content/uploads/2019/05/cropped-cmake_512.png" width="40" height="40"/>
   
 </p>
 
@@ -36,43 +36,119 @@
 
 
 ### 📄 The books I have read:
-|                           Language                           |
-| :----------------------------------------------------------: |
-| [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/) |
-| [C++标准库（第2版）](https://book.douban.com/subject/26419721/) |
-| [深入理解C++11-C++ 11新特性解析与应用](https://book.douban.com/subject/24738301/) |
-| [C++并发编程实战（第2版）](https://book.douban.com/subject/35653912/) |
-|  [Qt中的C++技术](https://book.douban.com/subject/10812785/)  |
-| [罗剑锋的 C++ 实战笔记](https://time.geekbang.org/column/intro/100051801) |
-| [现代 C++ 编程实战 ](https://time.geekbang.org/column/intro/100040501) |
-| [Python编程（第3版）](https://book.douban.com/subject/36365320/) |
-| [SQL必知必会（第5版）](https://book.douban.com/subject/35167240/) |
-|                        ...too much...                        |
+
+<table align="center">
+    <tr>
+        <th>Language</th>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/25708312" target="_blank" rel="noreferrer"> C++ Primer</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/26419721" target="_blank" rel="noreferrer"> C++标准库（第2版）</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/24738301" target="_blank" rel="noreferrer"> 深入理解C++11-C++ 11新特性解析与应用</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/35653912" target="_blank" rel="noreferrer"> C++并发编程实战（第2版）</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/10812785" target="_blank" rel="noreferrer"> Qt中的C++技术</td>
+    </tr>
+    <tr>
+        <td><a href="https://time.geekbang.org/column/intro/100051801" target="_blank" rel="noreferrer"> 罗剑锋的 C++ 实战笔记</td>
+    </tr>
+    <tr>
+        <td><a href="https://time.geekbang.org/column/intro/100040501" target="_blank" rel="noreferrer"> 现代 C++ 编程实战
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/36365320" target="_blank" rel="noreferrer"> Python编程（第3版）</td>
+    </tr>
+    <tr>
+        <td> ...too much...</td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+        <th>Network</th>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/25911735" target="_blank" rel="noreferrer"> TCP/IP网络编程</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/24722611" target="_blank" rel="noreferrer"> Linux高性能服务器编程</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/25863515" target="_blank" rel="noreferrer"> 图解HTTP</td>
+    </tr>
+    <tr>
+        <td><a href="https://time.geekbang.org/column/intro/100029001" target="_blank" rel="noreferrer"> 网络编程实战</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/10812785" target="_blank" rel="noreferrer"> 透视 HTTP 协议</td>
+    </tr>
+    <tr>
+        <td> ...too much...</td>
+    </tr>
+</table>
 
 
-|                           Network                            |
-| :----------------------------------------------------------: |
-| [TCP/IP网络编程](https://book.douban.com/subject/25911735/)  |
-| [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) |
-|    [图解HTTP](https://book.douban.com/subject/25863515/)     |
-| [网络编程实战](https://time.geekbang.org/column/intro/100032701) |
-| [透视 HTTP 协议](https://time.geekbang.org/column/intro/100029001) |
+<table align="center">
+    <tr>
+        <th>Other</th>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/30357170" target="_blank" rel="noreferrer"> 我的第一本算法书</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/34262305" target="_blank" rel="noreferrer"> 设计模式：可复用面向对象软件的基础
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://time.geekbang.org/column/intro/100033601" target="_blank" rel="noreferrer"> 浏览器工作原理与实践
+        </td>
+    </tr>
+    <tr>
+        <td> ...too much...</td>
+    </tr>
+</table>
 
-|                            other                             |
-| :----------------------------------------------------------: |
-| [我的第一本算法书](https://book.douban.com/subject/30357170/) |
-| [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/34262305/) |
-| [浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601) |
-|                        ...too much...                        |
-
-|                          Literature                          |
-| :----------------------------------------------------------: |
-|    [乌合之众](https://book.douban.com/subject/30121482/)     |
-| [史蒂夫·乔布斯传](https://book.douban.com/subject/6798611/)  |
-| [戴笠：黑暗时代里最黑的人](https://book.douban.com/subject/34428637/) |
-|       [活着](https://book.douban.com/subject/4913064/)       |
-|     [倾城之恋](https://book.douban.com/subject/1985223/)     |
+<table align="center">
+    <tr>
+        <th>Literature</th>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/30121482" target="_blank" rel="noreferrer"> 乌合之众</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/6798611" target="_blank" rel="noreferrer"> 史蒂夫·乔布斯传</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/34428637" target="_blank" rel="noreferrer"> 戴笠：黑暗时代里最黑的人</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/4913064" target="_blank" rel="noreferrer"> 活着</td>
+    </tr>
+    <tr>
+        <td><a href="https://book.douban.com/subject/1985223" target="_blank" rel="noreferrer"> 倾城之恋</td>
+    </tr>
+    <tr>
+        <td> ...too much...</td>
+    </tr>
+</table>
 
 
 ### About me
 衣带渐宽终不悔，为伊消得人憔悴。
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=l-super&label=Views&color=orange&style=flat-square" alt="访问量统计" align="center" />
+</p>
+
+
+
