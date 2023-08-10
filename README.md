@@ -2,6 +2,7 @@
 <h3 align="center">A cpp developer from China</h3>
 
 - 🌱 I’m currently learning **CEF、OpenGL、FFmpeg**
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
 
@@ -72,4 +73,4 @@
 
 
 ### About me
-It's hard to say
+衣带渐宽终不悔，为伊消得人憔悴。
