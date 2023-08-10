@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 楚莫识</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+%E6%A5%9A%E8%8E%AB%E8%AF%86" alt="Typing SVG" /></a></h1>
 <h3 align="center">A cpp developer from China</h3>
 
 - 🌱 I’m currently learning **CEF、OpenGL、FFmpeg**
