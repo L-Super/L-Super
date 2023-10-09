@@ -21,7 +21,7 @@
   <img alt="JetBrains" src="https://resources.jetbrains.com/storage/products/jetbrains/img/meta/jetbrains_logo_300x300.png" width="40" height="40"/>
   <img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>
   <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img alt="CMake" src="https://cmake.org/wp-content/uploads/2019/05/cropped-cmake_512.png" width="40" height="40"/>
+  <img alt="CMake" src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" width="40" height="40"/>
   
 </p>
 
