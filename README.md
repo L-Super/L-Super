@@ -20,7 +20,7 @@
 <p>
   <img alt="Qt" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" width="40" height="40"/>
   <img alt="JetBrains" src="https://resources.jetbrains.com/storage/products/jetbrains/img/meta/jetbrains_logo_300x300.png" width="40" height="40"/>
-  <img alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img alt="CMake" src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" width="40" height="40"/>
   
