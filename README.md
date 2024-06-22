@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A cpp developer from China</h3>
 
-- 🌱 I’m currently learning **CEF、OpenGL、FFmpeg**
+- 🌱 I’m currently learning **OpenGL、FFmpeg**
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
