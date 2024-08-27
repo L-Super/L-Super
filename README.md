@@ -33,6 +33,7 @@
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=ubuntu&logoColor=white">
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows10">
+<img alt="macOS" src="https://img.shields.io/badge/-macOS-black?logo=apple">
 </p>
 
 
