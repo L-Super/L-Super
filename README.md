@@ -42,16 +42,15 @@
 #### CS  
 | Language                                                     | Network                                                      | Other                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/) | [TCP/IP网络编程](https://book.douban.com/subject/25911735/)  | [我的第一本算法书](https://book.douban.com/subject/30357170/) |
+| [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/) | [TCP/IP网络编程](https://book.douban.com/subject/25911735/)  | [算法图解](https://book.douban.com/subject/26979890/)        |
 | [C++标准库（第2版）](https://book.douban.com/subject/26419721/) | [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) | [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/34262305/) |
-| [深入理解C++11](https://book.douban.com/subject/24738301/)   | [图解HTTP](https://book.douban.com/subject/25863515/)        | [程序员的自我修养](https://book.douban.com/subject/3652388/) |
-| [C++并发编程实战（第2版）](https://book.douban.com/subject/35653912/) | [网络编程实战](https://time.geekbang.org/column/intro/100032701) | [浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601) |
-| [Qt中的C++技术](https://book.douban.com/subject/10812785/)   | [透视 HTTP 协议](https://time.geekbang.org/column/intro/100029001) | ...too much...                                               |
-| [罗剑锋的 C++ 实战笔记](https://time.geekbang.org/column/intro/100051801) | ...too much...                                               |                                                              |
-| [现代 C++ 编程实战 ](https://time.geekbang.org/column/intro/100040501) |                                                              |                                                              |
+| [Effective C++](https://book.douban.com/subject/5387403/)    | [图解HTTP](https://book.douban.com/subject/25863515/)        | [程序员的自我修养：链接、装载与库](https://book.douban.com/subject/3652388/) |
+| [C++并发编程实战（第2版）](https://book.douban.com/subject/35653912/) | [网络编程实战](https://time.geekbang.org/column/intro/100032701) | [重构：改善既有代码的设计](https://book.douban.com/subject/30468597) |
+| [Qt中的C++技术](https://book.douban.com/subject/10812785/)   | [透视 HTTP 协议](https://time.geekbang.org/column/intro/100029001) | [左耳听风：传奇程序员练级攻略](https://book.douban.com/subject/36667269/) |
+| [罗剑锋的 C++ 实战笔记](https://time.geekbang.org/column/intro/100051801) | ...too much...                                               | [浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601) |
+| [现代 C++ 编程实战 ](https://time.geekbang.org/column/intro/100040501) |                                                              | ...too much...                                               |
+| [深入理解C++11](https://book.douban.com/subject/24738301/)   |                                                              |                                                              |
 | ...too much...                                               |                                                              |                                                              |
-
-
 
 #### Literature
 |                          Literature                          |
